@@ -12,12 +12,14 @@
     - MongoDB
 
 ### Passos para Executar o Projeto
-    1 - Clone esse projeto para sua máquina e abra em sua IDE favorita.
-    2 - Abra dois terminais
-    3 - Em um dos terminais acesse o diretório Backend e execute o comando: npm run dev
-    4 - No segundo terminal acesse o diretório Frontend e execute o comando: expo start
-    5 - Instalar o aplicativo Expo Go no smartphone
-    6 - Abrir o aplicativo e scanear o QRCODE
+
+  1 - Clone esse projeto para sua máquina e abra em sua IDE favorita
+  2 - Abra dois terminais
+  3 - Em um dos terminais acesse o diretório Backend e execute o comando para baixar as dependências: npm install ou yarn install
+  4 - Execute o comando para "subir" o servidor: npm run dev
+  5 - No segundo terminal acesse o diretório Frontend e execute o comando para baixar as dependências: npm install ou yarn install
+  6 - Instalar o aplicativo Expo Go no smartphone
+  7 - Abrir o aplicativo e scanear o QRCODE
 
 ### Requisições
 ```sh
